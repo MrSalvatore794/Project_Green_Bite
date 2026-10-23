@@ -1,0 +1,35 @@
+:root {
+  /* Brand colours (from the GreenBite design board) */
+  --color-cream: #f8f3e9;
+  --color-beige: #eaddc8;
+  --color-bread-brown: #c9a27c;
+  --color-deep-brown: #8b5e3c;
+  --color-green: #7daf7a;
+  --color-green-soft: #a7c9a1;
+  --color-green-dark: #5f8c5c;
+  --color-yellow: #e8b85d;
+  --color-orange: #e4894b;
+
+  /* Typography */
+  --font-primary: 'Poppins', 'Nunito', system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif;
+  --font-secondary: 'Nunito', 'Poppins', system-ui, -apple-system, sans-serif;
+  --font-handwritten: 'Caveat', 'Poppins', cursive;
+
+  /* Radii */
+  --radius-sm: 8px;
+  --radius-md: 14px;
+  --radius-lg: 20px;
+  --radius-pill: 999px;
+
+  /* Spacing */
+  --space-1: 4px;
+  --space-2: 8px;
+  --space-3: 12px;
+  --space-4: 16px;
+  --space-5: 24px;
+  --space-6: 32px;
+
+  /* Shadows */
+  --shadow-soft: 0 6px 20px rgba(139, 94, 60, 0.1);
+  --shadow-card: 0 10px 24px rgba(139, 94, 60, 0.12);
+}
